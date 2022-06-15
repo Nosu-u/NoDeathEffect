@@ -1,0 +1,15 @@
+{
+	"geode": "v0.1.0",
+	"version": "v1.0.0",
+	"id": "com.nosu.nodeatheffect",
+	"name": "NoDeathEffect",
+	"developer": "Nosu",
+	"description": "it removes the death effect",
+	"binary": "NoDeathEffect",
+	"dependencies": [
+		{
+			"id": "com.geode.api",
+			"required": true
+		}
+	]
+}
